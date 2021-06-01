@@ -1,0 +1,2 @@
+# Snake
+training project
