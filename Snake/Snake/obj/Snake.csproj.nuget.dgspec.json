@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Snake\\Snake\\Snake\\Snake.csproj": {}
+    "C:\\Users\\stryu\\Documents\\Projects\\Snake\\Snake\\Snake\\Snake.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Snake\\Snake\\Snake\\Snake.csproj": {
+    "C:\\Users\\stryu\\Documents\\Projects\\Snake\\Snake\\Snake\\Snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Snake\\Snake\\Snake\\Snake.csproj",
+        "projectUniqueName": "C:\\Users\\stryu\\Documents\\Projects\\Snake\\Snake\\Snake\\Snake.csproj",
         "projectName": "Snake",
-        "projectPath": "E:\\Projects\\Snake\\Snake\\Snake\\Snake.csproj",
-        "packagesPath": "C:\\Users\\stryukovsi\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Snake\\Snake\\Snake\\obj\\",
+        "projectPath": "C:\\Users\\stryu\\Documents\\Projects\\Snake\\Snake\\Snake\\Snake.csproj",
+        "packagesPath": "C:\\Users\\stryu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stryu\\Documents\\Projects\\Snake\\Snake\\Snake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\stryukovsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stryu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
