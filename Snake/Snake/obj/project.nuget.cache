@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HvJhyksCdW00KOgLBw9N3Vv3bJZ9HQS4aZPW2hTwAjQP17v6SnaUp8He4vNqqg3vSyoVmlgbbDb/LH9p9hggCg==",
+  "dgSpecHash": "9V4tlcAUiko+LW3N9H97uvAR1csgN/UbWgapXLzaWdb3glHerbuF19eaADE8z1dwBE3txX5h65CvHMYzypP/lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stryu\\Documents\\Projects\\Snake\\Snake\\Snake\\Snake.csproj",
+  "projectFilePath": "E:\\Projects\\Snake\\Snake\\Snake\\Snake.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
